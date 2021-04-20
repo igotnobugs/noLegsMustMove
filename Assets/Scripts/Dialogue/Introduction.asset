@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e314d3213a92da04bad33cf9aad31841, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  scripts:
+  - sentence: Hello Hero!
+    time: 2
+  - sentence: You are the chosen one!
+    time: 2
+  - sentence: You must...
+    time: 1
+  - sentence: What the!?
+    time: 1
+  - sentence: Oh shit!
+    time: 2
+  - sentence: ...
+    time: 3
+  - sentence: Oh well, might as well drag her to the hospital
+    time: 4
