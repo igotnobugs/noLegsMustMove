@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scripts:
   - sentence: I can manipulate the worlds gravity with my phone.
-    time: 3
-  - sentence: Uses gyroscopic thingy. Tilt the phone and the world follow.
-    time: 3
+    time: 2.5
+  - sentence: Tilt the phone and the world will follow.
+    time: 2.5
   - sentence: My power is a bit weak and I can't tilt it too much.
-    time: 3
+    time: 2.5
   - sentence: Need to collect some green cube stuff to increase my power.
-    time: 2
+    time: 1.5
   - sentence: Let's get out of here!
     time: 1

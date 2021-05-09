@@ -17,6 +17,7 @@ public class Hero : MonoBehaviour
         if (currentInviTime > 0) {
             currentInviTime -= Time.deltaTime;
         }
+
     }
 
     public void Damage(int amount) {
@@ -33,4 +34,5 @@ public class Hero : MonoBehaviour
         if (health < 0) return 0;
         return health;
     }
+
 }
